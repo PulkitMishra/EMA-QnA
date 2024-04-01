@@ -1,0 +1,4 @@
+TRITON_SERVER_URL = 'localhost:8001'
+NEXUSRAVEN_MODEL_NAME = 'nexusraven-v2'
+ANTHROPIC_MODEL_NAME = 'claude-3-opus-20240229'
+KAFKA_BOOTSTRAP_SERVERS = ['localhost:9092']

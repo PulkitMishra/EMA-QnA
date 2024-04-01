@@ -1,0 +1,7 @@
+fastapi
+uvicorn
+sqlalchemy
+postgresql
+tritonclient
+anthropic
+kafka-python
